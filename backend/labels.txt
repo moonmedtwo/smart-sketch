@@ -14,7 +14,7 @@
 13 stop
 14 parking
 15 bench
-16 bird
+16 bird 1,1,1
 17 cat
 18 dog
 19 horse
@@ -104,7 +104,7 @@
 103 ceiling-tile
 104 cloth
 105 clothes
-106 clouds 239,239,239
+106 clouds 8,179,176
 107 counter
 108 cupboard
 109 curtain
@@ -126,9 +126,9 @@
 125 gravel
 126 ground-other
 127 hill 119,108,45
-128 house 222,184,135
+128 house 
 129 leaves 191,96,44
-130 light
+130 light 50,50,50
 131 mat
 132 metal
 133 mirror-stuff
@@ -148,7 +148,7 @@
 147 railroad
 148 river 50,96,77
 149 road 152,126,106
-150 rock
+150 rock 222,184,135
 151 roof 139,0,0
 152 rug
 153 salad
